@@ -6,7 +6,7 @@
 
 ### ①创建笔记
 
-![test1](picture\test1.png)
+![test1]([Android\picture\test1.png](https://github.com/Zeppelin1387/Android/blob/main/picture/test1.png))
 
 ### ②笔记带有时间戳
 
